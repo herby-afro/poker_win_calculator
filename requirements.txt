@@ -1,0 +1,4 @@
+# Requisitos generados automáticamente
+cython
+streamlit
+eval7
